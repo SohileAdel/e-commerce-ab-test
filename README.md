@@ -13,4 +13,6 @@ This is an e-commerce website data. The purpose of this project is to help the c
 
 ### Technologies
 * Python
-* Pandas, , jupyter
+* Jupyter Notebook
+* Pandas, Numpy, Statsmodels, Matplotlib
+
