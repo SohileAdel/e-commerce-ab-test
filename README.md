@@ -1,5 +1,4 @@
 # E-Commerce A/B Test
-This project is a part of the [Advanced Data Analysis Course](https://egfwd.com/specializtion/data-analysis-advanced/) at [Udacity](https://www.udacity.com/).
 
 #### -- Project Status: Completed
 
